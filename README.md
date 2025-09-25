@@ -6,13 +6,13 @@ It’s a simple yet powerful **User Management System** where user data is store
 ---
 
 ## 🚀 Features
-- 🔹 Insert fake users using [`@faker-js/faker`](https://www.npmjs.com/package/@faker-js/faker)  
-- 🔹 Home page showing total user count  
-- 🔹 View all users in a clean table layout (`/showUsers`)  
-- 🔹 Edit user details securely (password check before update)  
-- 🔹 Update username in the database  
-- 🔹 Method override enabled for PATCH requests  
-- 🔹 EJS templating for rendering dynamic views  
+ 🔹 Insert fake users using [`@faker-js/faker`](https://www.npmjs.com/package/@faker-js/faker)  
+ 🔹 Home page showing total user count  
+ 🔹 View all users in a clean table layout (`/showUsers`)  
+ 🔹 Edit user details securely (password check before update)  
+ 🔹 Update username in the database  
+ 🔹 Method override enabled for PATCH requests  
+ 🔹 EJS templating for rendering dynamic views  
 
 ---
 
